@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MundF_Project_v1</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="geschwindigkeit_eingeben">Geschwindigkeit eingeben</string>
+</resources>
