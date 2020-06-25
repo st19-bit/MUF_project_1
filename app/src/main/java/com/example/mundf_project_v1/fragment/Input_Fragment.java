@@ -26,7 +26,6 @@ public class Input_Fragment extends Fragment {
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View v = inflater.inflate(R.layout.input_fragment,container,false);
 
-        final EditText eingabe_v = v.findViewById(R.id.ziel_eingabe);
         final Button start = v.findViewById(R.id.start);
         final Button stop = v.findViewById(R.id.stop);
 
